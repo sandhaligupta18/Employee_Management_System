@@ -1,0 +1,95 @@
+﻿@model IEnumerable<ModelAccessLayer.Payroll>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WorkingHours)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Month)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Loan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deduction)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalPaid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pending)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PayDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaidType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WorkingHours)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Month)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Loan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deduction)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPaid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pending)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PayDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaidType)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "UpdatePayroll", new { id = item.Empid }) |
+                    @Html.ActionLink("Details", "GetPayroll", new { id = item.Empid }) |
+                    @Html.ActionLink("Delete", "DeletePayroll", new { id = item.Empid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

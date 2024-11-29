@@ -1,0 +1,17 @@
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\bin\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

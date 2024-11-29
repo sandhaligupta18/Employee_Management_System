@@ -1,0 +1,12 @@
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.deps.json
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.AssemblyInfo.cs
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\refint\ModelAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\ModelAccessLayer\obj\Debug\net8.0\ref\ModelAccessLayer.dll

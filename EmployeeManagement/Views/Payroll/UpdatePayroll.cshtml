@@ -1,0 +1,79 @@
+﻿@model ModelAccessLayer.Payroll
+
+<h4>Payroll</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdatePayroll">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Empid" class="control-label"></label>
+                <input asp-for="Empid" class="form-control" />
+                <span asp-validation-for="Empid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpName" class="control-label"></label>
+                <input asp-for="EmpName" class="form-control" />
+                <span asp-validation-for="EmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salary" class="control-label"></label>
+                <input asp-for="Salary" class="form-control" />
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WorkingHours" class="control-label"></label>
+                <input asp-for="WorkingHours" class="form-control" />
+                <span asp-validation-for="WorkingHours" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Month" class="control-label"></label>
+                <input asp-for="Month" class="form-control" />
+                <span asp-validation-for="Month" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Loan" class="control-label"></label>
+                <input asp-for="Loan" class="form-control" />
+                <span asp-validation-for="Loan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Deduction" class="control-label"></label>
+                <input asp-for="Deduction" class="form-control" />
+                <span asp-validation-for="Deduction" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPaid" class="control-label"></label>
+                <input asp-for="TotalPaid" class="form-control" />
+                <span asp-validation-for="TotalPaid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pending" class="control-label"></label>
+                <input asp-for="Pending" class="form-control" />
+                <span asp-validation-for="Pending" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PayDate" class="control-label"></label>
+                <input asp-for="PayDate" class="form-control" />
+                <span asp-validation-for="PayDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaidType" class="control-label"></label>
+                <input asp-for="PaidType" class="form-control" />
+                <span asp-validation-for="PaidType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

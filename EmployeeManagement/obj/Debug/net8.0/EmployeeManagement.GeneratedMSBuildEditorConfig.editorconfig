@@ -1,0 +1,267 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManagement
+build_property.RootNamespace = EmployeeManagement
+build_property.ProjectDir = C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\EmployeeManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\EmployeeManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Account/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Account/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Account/GetAllRegisterUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxHZXRBbGxSZWdpc3RlclVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Attendance/CreateAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxDcmVhdGVBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Attendance/DeleteAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxEZWxldGVBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Attendance/GetAllAttendances.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxHZXRBbGxBdHRlbmRhbmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Attendance/GetAttendancebyId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxHZXRBdHRlbmRhbmNlYnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Attendance/UpdateAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxVcGRhdGVBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Department/CreateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Department/DeleteDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Department/GetAllDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxHZXRBbGxEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Department/GetDepartmentById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxHZXREZXBhcnRtZW50QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Department/UpdateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Designation/AddDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cQWRkRGVzaWduYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Designation/DeleteDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGVsZXRlRGVzaWduYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Designation/GetAllDesignations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cR2V0QWxsRGVzaWduYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Designation/GetDesignationById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cR2V0RGVzaWduYXRpb25CeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Designation/UpdateDesignation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cVXBkYXRlRGVzaWduYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/DeleteEmployeeDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlRW1wbG95ZWVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/GetAllEMployess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcR2V0QWxsRU1wbG95ZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/GetEmployeeById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcR2V0RW1wbG95ZWVCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/UpdateEmployeeDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlRW1wbG95ZWVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Holiday/AddHolidays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxBZGRIb2xpZGF5cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Holiday/DeleteHolidays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxEZWxldGVIb2xpZGF5cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Holiday/GetAllHolidays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxHZXRBbGxIb2xpZGF5cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Holiday/GetHolidaysById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxHZXRIb2xpZGF5c0J5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Holiday/UpdateHolidays.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxVcGRhdGVIb2xpZGF5cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Leaves/AddLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVzXEFkZExlYXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Leaves/DeleteLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVzXERlbGV0ZUxlYXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Leaves/GetAllLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVzXEdldEFsbExlYXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Leaves/GetLeavesById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVzXEdldExlYXZlc0J5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Leaves/UpdateLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVzXFVwZGF0ZUxlYXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Notice/AddNotice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXEFkZE5vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Notice/DeleteNotice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXERlbGV0ZU5vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Notice/GetAllNotices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXEdldEFsbE5vdGljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Notice/GetNoticeById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXEdldE5vdGljZUJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Notice/UpdateNotice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXFVwZGF0ZU5vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Payroll/AddPayroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5cm9sbFxBZGRQYXlyb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Payroll/DeletePayroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5cm9sbFxEZWxldGVQYXlyb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Payroll/GetALlPayRolls.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5cm9sbFxHZXRBTGxQYXlSb2xscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Payroll/GetPayroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5cm9sbFxHZXRQYXlyb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Payroll/UpdatePayroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5cm9sbFxVcGRhdGVQYXlyb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Project/AddProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxBZGRQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Project/DeleteProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZWxldGVQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Project/GetAllProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxHZXRBbGxQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Project/GetProjectByid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxHZXRQcm9qZWN0QnlpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Project/UpdateProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxVcGRhdGVQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Task/AddTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xBZGRUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Task/DeleteTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGVUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Task/GetAllTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xHZXRBbGxUYXNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Task/GetTaskById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xHZXRUYXNrQnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Task/UpdateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xVcGRhdGVUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROYAL INFOTECH/source/repos/EmployeeManagement/EmployeeManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zfw5uihhvp

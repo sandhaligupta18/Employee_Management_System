@@ -1,0 +1,17 @@
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.AssemblyInfo.cs
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\BussinessAccessLayer.deps.json
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\BussinessAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\BussinessAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\bin\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\Bussines.28E92536.Up2Date
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\refint\BussinessAccessLayer.dll
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\BussinessAccessLayer.pdb
+C:\Users\ROYAL INFOTECH\source\repos\EmployeeManagement\BussinessAccessLayer\obj\Debug\net8.0\ref\BussinessAccessLayer.dll

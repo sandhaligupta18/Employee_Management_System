@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ModelAccessLayer.Attendance>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SignIn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SignOut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WorkingHours)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SignIn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SignOut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WorkingHours)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "UpdateAttendance", new { id = item.Empid }) |
+                    @Html.ActionLink("Details", "GetAttendancebyId", new { id = item.Empid }) |
+                    @Html.ActionLink("Delete", "DeleteAttendance", new { id = item.Empid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

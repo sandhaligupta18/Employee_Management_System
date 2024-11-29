@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ModelAccessLayer.Tasks>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssignedEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskTittle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignedEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaskTittle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "UpdateTask", new { id=item.Empid }) |
+                @Html.ActionLink("Details", "GetTaskById", new { id=item.Empid }) |
+                    @Html.ActionLink("Delete", "DeleteTask", new { id = item.Empid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ModelAccessLayer.Leaves>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoofDays)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplyDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeaveType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoofDays)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplyDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeaveStatus)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "UpdateLeaves", new { id = item.Empid }) |
+                    @Html.ActionLink("Details", "GetLeavesById", new { id = item.Empid }) |
+                    @Html.ActionLink("Delete", "DeleteLeaves", new { id = item.Empid })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
